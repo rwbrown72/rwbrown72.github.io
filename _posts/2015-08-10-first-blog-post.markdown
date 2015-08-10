@@ -2,8 +2,11 @@
 layout: post
 title:  "My first Jekyll post!"
 date:   2015-08-10
-categories: blog
+categories: jekyll update
 ---
 
 This is my first post using github's pages and Jekyll!
+
+I'm loving the workflow throug github. 
+
 

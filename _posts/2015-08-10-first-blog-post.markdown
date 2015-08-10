@@ -5,7 +5,7 @@ date:   2015-08-10
 categories: jekyll update
 ---
 
-This is my first post using github's pages and Jekyll!
+This is my First post using github's pages and Jekyll!
 
 I'm loving the workflow through github. 
 

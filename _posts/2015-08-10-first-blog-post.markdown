@@ -7,6 +7,6 @@ categories: jekyll update
 
 This is my first post using github's pages and Jekyll!
 
-I'm loving the workflow throug github. 
+I'm loving the workflow through github. 
 
 

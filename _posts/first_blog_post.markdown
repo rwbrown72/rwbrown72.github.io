@@ -5,5 +5,5 @@ date:   2015-08-10
 categories: blog
 ---
 
-#This is my first post using github's pages and Jekyll!
+This is my first post using github's pages and Jekyll!
 

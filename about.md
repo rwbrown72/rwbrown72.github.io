@@ -9,5 +9,7 @@ This is the Github Page of Russell Brown. I'm a website and app developer from S
 You can find me at the follow places:
 
 [Github](https://github.com/rwbrown72)
+
 [Twitter](http://twitter.com/rwbrown72)
+
 [Russell Brown Co.](http://russellbrown.co)

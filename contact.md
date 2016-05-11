@@ -14,5 +14,7 @@ permalink: /contact/
 </address>
 
 [Github](https://github.com/rwbrown72)
+
 [Twitter](http://twitter.com/rwbrown72)
+
 [Russell Brown Co.](http://russellbrown.co)

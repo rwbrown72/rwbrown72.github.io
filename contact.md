@@ -12,3 +12,7 @@ permalink: /contact/
 		<li>618-555-1212</li>
 	</ul>
 </address>
+
+[Github](https://github.com/rwbrown72)
+[Twitter](http://twitter.com/rwbrown72)
+[Russell Brown Co.](http://russellbrown.co)

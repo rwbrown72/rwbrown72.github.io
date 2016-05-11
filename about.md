@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the Github Page of Russell Brown. I'm a website and app developer from Southern Illinois. I'm also into photography and old cars!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find me at the follow places:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[Github](https://github.com/rwbrown72)
+[Twitter](http://twitter.com/rwbrown72)
+[Russell Brown Co.](http://russellbrown.co)
